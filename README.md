@@ -76,8 +76,8 @@ https://habr.com/ru/company/avito/blog/571096/
 Карпов - размер выборки
 https://www.youtube.com/watch?v=2nP\_gcut7SU
 1. Расчет размера выборки из мощности на примере Z-теста
+2. Формулы для Т-теста
 https://towardsdatascience.com/required-sample-size-for-a-b-testing-6f6608dd330a
-1. Формулы для Т-теста
 
 Карпов - подглядывания
 https://www.youtube.com/watch?v=jnFVmtaeSA0
