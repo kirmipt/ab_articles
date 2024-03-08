@@ -10,7 +10,7 @@
 7. Проблема подглядывания и методы досрочного прекращения теста
 8. Расчет срока теста по старым или предэксп. данным
 9. Выводы из результатов теста
-
+____
 _________
 Основные шаги
 https://education.yandex.ru/journal/kak-provesti-a-b-testirovanie-6-prostykh-shagov
@@ -27,7 +27,7 @@ https://youtu.be/oa8j8TOndpE
 7. Z/Т-тесты
 8. множественные сравнения
 9. повторение ключевого из лекции
-
+____
 Мифы аб-тестов
 https://www.youtube.com/watch?v=IFAaTKVKH1A
 
@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=IFAaTKVKH1A
 7. Подготовка - размер выборки по MDE
 8. Течение теста - подглядывания, мониторинг MDE
 9. Принятие решения - подглядывания, отчет стат зн рез-та - аплифт>дов инт
-   
+____   
 ВК
 https://vkteam.medium.com/practitioners-guide-to-statistical-tests-ed2d580ef04f
 1. (1.2) FPR и мощность - ошибки 1 рода vs 2-го 1.3. Распределения искусственных данных (есть аплифт)
@@ -48,7 +48,7 @@ https://vkteam.medium.com/practitioners-guide-to-statistical-tests-ed2d580ef04f
 2. (2.1) Как выбрать тест? - Сравниваем FPR и мощности разных тестов на искусственных данных
 2. clicks: 1Т-тест 2Mann-Whitney
 3. globalCTR: 1binom-Z 2Bootstrap 3Delta-method 4Bucketization 5Linearization ......
-
+____
 Авито 1
 https://habr.com/ru/company/avito/blog/571094/
 1. Гипотезы АБ,
@@ -62,7 +62,7 @@ https://habr.com/ru/company/avito/blog/571094/
 как не делаем:
 MW, логарифмирование метрики, выкинуть выбросы
 Выкинуть выбросы в предэксп. период можно
-
+____
 Авито 2
 https://habr.com/ru/company/avito/blog/571096/
 Методы повышения мощности (mentioned in мифы, теперь подробно)
@@ -72,19 +72,19 @@ https://habr.com/ru/company/avito/blog/571096/
 3. Стратификация - метод разбивки на Тест и Контроль
 4. Парная стратификация - учет ковар. между Т и С
 5. Сравнение всех методов и их комбинаций с парной страт.
-   
+____   
 Карпов - размер выборки
 https://www.youtube.com/watch?v=2nP\_gcut7SU
 1. Расчет размера выборки из мощности на примере Z-теста
 2. Формулы для Т-теста
 https://towardsdatascience.com/required-sample-size-for-a-b-testing-6f6608dd330a
-
+____
 Карпов - подглядывания
 https://www.youtube.com/watch?v=jnFVmtaeSA0
 1. А/А с подглядываниями - примеры - FPR>5%
 2. Нельзя добирать выборку для подгона
 3. Срок заранее, решение в конце - фиксируем FPR
-
+____
 Учи.ру
 https://habr.com/ru/company/uchi_ru/blog/500918/
 1. Множественные сравнения - много срезов/разных метрик/тритментов - Бонферони
@@ -92,7 +92,7 @@ https://habr.com/ru/company/uchi_ru/blog/500918/
 3. Покок и О-Браян-Флеминг (+Optimizely)
 4. Расчет срока из MDE по старым данным используя Покока и Бонферони
 
-
+____
 Групировка пунктов статей по тематике:
 
 0. Т-тест для отношения, дельта метод
