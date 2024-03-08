@@ -14,7 +14,7 @@
 _________
 Основные шаги
 https://education.yandex.ru/journal/kak-provesti-a-b-testirovanie-6-prostykh-shagov
-__
+____
 Тинькофф - поступашки
 https://youtu.be/oa8j8TOndpE
 
