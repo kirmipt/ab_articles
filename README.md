@@ -1,4 +1,4 @@
-Темы разобранные в статьях (ниже есть групировка частей статей по темам)
+Темы разобранные в статьях (в самом низу есть групировка пунктов статей по темам)
 
 1. Определение размера выборки(срока) из мощности и MDE
 2. Сплит-система
@@ -47,7 +47,7 @@ https://vkteam.medium.com/practitioners-guide-to-statistical-tests-ed2d580ef04f
 1. (1.4-1.5) FPR контролирует порог alpha - равномерное p-val в A/A
 2. (2.1) Как выбрать тест? - Сравниваем FPR и мощности разных тестов на искусственных данных
 2. clicks: 1Т-тест 2Mann-Whitney
-3. globalCTR: 1binom-Z 2Bootstrap 3Delta-method 4Bucketization 5Linearization ......
+3. globalCTR: 1binom-Z 2Bootstrap 3Delta-method 4Bucketization 5Linearization ...... дальше не читал
 ____
 Авито 1
 https://habr.com/ru/company/avito/blog/571094/
@@ -91,13 +91,14 @@ https://habr.com/ru/company/uchi_ru/blog/500918/
 2. Подглядывания - FPR > 5%
 3. Покок и О-Браян-Флеминг (+Optimizely)
 4. Расчет срока из MDE по старым данным используя Покока и Бонферони
-
+____
+https://medium.com/statistics-experiments/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%B2%D0%BB%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-a-b-%D1%82%D0%B5%D1%81%D1%82-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-mde-7d39b668b488
+____
 ____
 Групировка пунктов статей по тематике:
 
 0. Т-тест для отношения, дельта метод
 Мифы.3и4 , Авито1.3
-
 
 1. Определение размера выборки(срока) из мощности и MDE:
 Тинькофф.2и6, Карпов - размер выборки, Мифы.7
