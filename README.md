@@ -11,7 +11,7 @@
 8. Расчет срока теста по старым или предэксп. данным
 9. Выводы из результатов теста
 
-
+_________
 Основные шаги
 https://education.yandex.ru/journal/kak-provesti-a-b-testirovanie-6-prostykh-shagov
 
