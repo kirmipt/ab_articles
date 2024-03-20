@@ -94,6 +94,8 @@ https://habr.com/ru/company/uchi_ru/blog/500918/
 ____
 ____
 Что стоит еще прочитать?
+Другие курсы карпова на https://s1.sharewood.co/
+
 https://medium.com/statistics-experiments/%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%B2%D0%BB%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-a-b-%D1%82%D0%B5%D1%81%D1%82-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-mde-7d39b668b488
 1. мониторинг MDE - пока не найден эффект, найденый будет меньше current MDE(упомянуто в мифах 8)
 2. он сравнивает MDE с аплифтом, но есть мнение что это туфта:
