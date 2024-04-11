@@ -15,7 +15,7 @@ _________
 Основные шаги
 https://education.yandex.ru/journal/kak-provesti-a-b-testirovanie-6-prostykh-shagov
 ____
-Тинькофф - поступашки
+Тинькофф 
 https://youtu.be/oa8j8TOndpE
 
 1. подготовка к АБ
